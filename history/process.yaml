@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_pd0_beam_parsed
+data_stream: RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_pd0_beam_parsed
+end_date: '2015-11-25T01:58:30.355Z'
+last_updated: '2021-12-29T01:35:38.760581Z'
+start_date: '2014-10-02T13:23:15.470Z'
+status: pending
